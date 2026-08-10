@@ -100,11 +100,13 @@ Interactive slicers allow users to drill into specific student groups instead of
 
 ## 🛠️ Tools & Technologies
 
-- **Microsoft Power BI**
-- **Data Visualization**
-- **Interactive Dashboard Design**
-- **Data Analysis**
-- **Power BI Slicers & KPI Cards**
+- Microsoft Excel
+- SQL
+- Microsoft Power BI
+- Data Cleaning & Analysis
+- Data Visualization
+- Interactive Dashboard Design
+- Power BI Slicers & KPI Cards
 
 
 ## 📈 Business Value
@@ -119,7 +121,9 @@ This dashboard can help an admission team or management quickly identify:
 
 ## 💡 Skills Demonstrated
 
-- Dashboard development in Power BI
+- Microsoft Excel for data preparation and analysis
+- SQL querying and data analysis
+- Power BI dashboard development
 - Data visualization
 - KPI design
 - Interactive filtering
