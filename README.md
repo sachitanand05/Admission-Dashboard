@@ -1,8 +1,46 @@
-# 🎓 Admission Dashboard — Power BI
+# 🎓 Admission Dashboard — Excel | SQL | Power BI
+
+## 📊 Excel Data Source
+
+The admission dataset was initially prepared and organized in **Microsoft Excel**.  
+The Excel data was then used for **SQL analysis** and to build the **Power BI dashboard**.
+
+### Excel Data Includes
+- Student Name
+- College Name
+- Course Name
+- Faculty
+- Admission Fees
+- Student Location
 
 An interactive **Admission Dashboard** built in Microsoft Power BI to analyze student admissions, admission fees, colleges, faculties, courses, and student locations.
 
 ![Admission Dashboard](Admission-dashboard.png)
+
+## SQL Analysis
+
+The SQL analysis was created to support the Admission Dashboard and extract key insights from the student admission data.
+
+### Key Analysis Performed
+
+- **Total Admissions** – Counted the total number of student admissions.
+- **Admission Fees Analysis** – Analyzed admission fee values across the dataset.
+- **Admissions by College** – Compared the number of admissions across different colleges.
+- **Admissions by Course** – Analyzed admissions based on different courses.
+- **Admissions by Student Location** – Examined student distribution by location.
+- **College-wise Admission Fees** – Compared admission fee values across colleges.
+
+### SQL Skills Demonstrated
+
+- `SELECT`
+- `COUNT()`
+- `SUM()`
+- `GROUP BY`
+- `ORDER BY`
+- Aggregate functions
+- Filtering and data analysis
+
+The complete SQL queries are available in **[Admission_analysis.sql](Admission_analysis.sql)**.
 
 ## 📌 Project Overview
 
@@ -95,4 +133,4 @@ This dashboard can help an admission team or management quickly identify:
 
 **Sachita Nand**
 
-This project is part of a data analytics portfolio demonstrating practical Power BI dashboard development.
+This project is part of a data analytics portfolio demonstrating practical skills in Excel, SQL, and Power BI for data analysis and business reporting.
