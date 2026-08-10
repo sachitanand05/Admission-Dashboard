@@ -2,7 +2,7 @@
 
 An interactive **Admission Dashboard** built in Microsoft Power BI to analyze student admissions, admission fees, colleges, faculties, courses, and student locations.
 
-![Admission Dashboard](images/admission-dashboard.png)
+![Admission Dashboard](Admission-dashboard.png)
 
 ## 📌 Project Overview
 
@@ -68,20 +68,6 @@ Interactive slicers allow users to drill into specific student groups instead of
 - **Data Analysis**
 - **Power BI Slicers & KPI Cards**
 
-## 📁 Repository Structure
-
-```text
-Admission-Dashboard/
-│
-├── README.md
-│
-├── images/
-│   └── admission-dashboard.png
-│
-└── Admission_Dashboard.pbix
-```
-
-> The `.pbix` file can be added to this repository from Power BI Desktop.
 
 ## 📈 Business Value
 
@@ -103,17 +89,7 @@ This dashboard can help an admission team or management quickly identify:
 - Business-oriented reporting
 - Clean dashboard presentation
 
-## 📸 Dashboard Preview
 
-The repository includes a high-quality dashboard screenshot in the `images` folder so visitors can understand the project without opening the Power BI file.
-
-## 🚀 How to Use
-
-1. Download or clone this repository.
-2. Open `Admission_Dashboard.pbix` in Microsoft Power BI Desktop.
-3. Use the **Course** and **Student Location** slicers.
-4. Explore the KPI cards and charts.
-5. Interact with the visuals to analyze admission patterns.
 
 ## 👤 Author
 
